@@ -12,7 +12,7 @@ This Python script processes PDF files to remove JavaScript, metadata, and annot
 
 To use the PDF Cleaner, make sure you have Python installed on your system along with the required libraries. You can install the necessary libraries with the following command in your terminal:
 
-```bash pip install PyPDF2 pdfrw```
+```pip install PyPDF2 pdfrw```
 
 Then, you can run the script with the following command in your terminal:
 
