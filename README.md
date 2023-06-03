@@ -20,7 +20,7 @@ Then, you can run the script with the following command in your terminal:
 
 ## Note
 
-Remember to back up your original files before running this script. The changes it makes are not reversible.
+Remember to back up your original files before running this script even though the changes are saved as a new file.
 
 This script doesn't support PDFs with encryption or certain types of compression. For PDFs that cannot be processed due to these issues, consider using a more powerful library such as PDFBox or iText, but these would require Java.
 
