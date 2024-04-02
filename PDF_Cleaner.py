@@ -3,7 +3,7 @@ from PyPDF2 import PdfReader, PdfWriter
 from pdfrw import PdfReader as pdfrwReader, PdfWriter as pdfrwWriter, IndirectPdfDict
 
 # specify the directory containing your PDFs
-pdf_directory = r'C:\Users\tinke\OneDrive\Desktop\New folder'
+pdf_directory = r'C:\Users\xxxxx'
 
 for filename in os.listdir(pdf_directory):
     if filename.endswith('.pdf'):
